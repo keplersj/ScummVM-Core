@@ -1,4 +1,4 @@
-ResidualVM-Core
+ScummVM-Core
 ===========
 
-OpenEmu Core plugin with ResidualVM
+OpenEmu Core plugin with ScummVM
