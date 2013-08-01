@@ -71,7 +71,7 @@
 		8CAFA7B71785AF4200647A96 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		8CAFA7B81785AF4200647A96 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		8CAFA7B91785AF4200647A96 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		8CAFC10F1785B63900647A96 /* ResidualVM.oecoreplugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ResidualVM.oecoreplugin; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CAFC10F1785B63900647A96 /* ResidualVM.oecoreplugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = ResidualVM.oecoreplugin; path = ScummVM.oecoreplugin; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CAFC1221785B6C400647A96 /* OpenEmuBase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = OpenEmuBase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CAFC1241785B6F700647A96 /* ScummGameCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScummGameCore.h; sourceTree = "<group>"; };
 		8CAFC1251785B6F700647A96 /* ScummGameCore.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ScummGameCore.mm; sourceTree = "<group>"; };
